@@ -295,7 +295,7 @@ if($contact.length){
                 $('#send').attr({'disabled' : 'true', 'value' : 'Sending...' });
                 $.ajax({
                     type: "POST",
-                    url: "email.php",
+                    url: "http://localhost:5001/visdevelop-ef40e/us-central1/emailMessage",
                     data: $(form).serialize(),
                     success: function () {
                         $('#send').removeAttr('disabled').attr('value', 'Send');

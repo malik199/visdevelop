@@ -375,7 +375,7 @@ a:hover,a:focus,a.active{
   background-image: url(../images/slider/malik-ahmad2.jpg);
 }
 .background2{
-    background: url(../images/background/01.jpg) no-repeat center fixed;
+    /*background: url(../images/background/01.jpg) no-repeat center fixed;*/
 }
 .background3{
   background-image: url(../images/slider/malik-ahmad2.jpg);
