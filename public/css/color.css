@@ -1,8 +1,13 @@
 /*	Color
 =====================================================================*/
 .color_default{
-	color: #1b1b1b; /* #3474df */
+	color: #1b1b1b; 
 }
+
+.color_special {
+	color: #3474df
+}
+
 .color_primary{
 	color: #1e283c;
 }
